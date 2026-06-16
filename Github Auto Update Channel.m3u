@@ -21,6 +21,9 @@ https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee Live 🇧🇩
+https://toffee-seg.smartdev.workers.dev/manifest?url=https%3A%2F%2Fprod-cdn01-live.toffeelive.com%2Flive%2FFIFA-2026%2F0%2Fmaster_2000.m3u8&cookie=%22Expires%3D1781722913~_GO%3DGenerated~URLPrefix%3DaHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature%3DAduQTZ-bbQSF5LgctKuUkU6E5174QCQ2n5goNtDltHzcEiE9KJXg322OEvMmIYw1KAdsnR3XER-SAVaiOHhVfcMXMZ4E%22
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 🇧🇩
 http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
