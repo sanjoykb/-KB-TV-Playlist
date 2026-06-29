@@ -1,15 +1,8 @@
 #EXTM3U
 
 # ─────────── Sports───────────
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Argentina vs Jordan Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/0/master_2000.m3u8?hdntl=Expires=1782691611~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcC8i3CYqhyhkfIvTlglYe1Pbgm-ys0LH3cGPR4lyaLd47xCH5YcKjibJfT_Db9j8sd_OxVH362TxtSwtw5bpsJ
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Live Play 1
-https://nhjjhhjhjjhfjj.pages.dev/1782590927/0c3a432faa6e4cefae67cc94eb90a42d/CADwQ0yLdp67uliZ-hE4E3ymbGXb6HQdpeQhBCWXdsI/fox-usa.m3u8
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Live Play 2
-https://nhjjhhjhjjhfjj.pages.dev/1782591013/7d59d89162a34ad2937057a2fad44350/X2pef735xU1H0qW5hkGC3FOE3jVQITDNmmuUAkaIAOQ/fox-sports-1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Upcoming Match Server
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782287049~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveUIquATxp7U9qRWDundJ4tY6Wt81zwiUKg_M6cokQk8OcgXmtq_uOMonQKGDQFPN5DepdypBkfFM8grz63CDAP
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", World Cup A1 
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
@@ -228,10 +221,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
-https://edge2.roarzone.net:8447/roarzone/edge3/sonyaath/index.m3u8?token=c1bbca22ab088b19c0bba490f6f74c67dcff3a88-61933a142add01f3550129205ce90895-1781061323-1781050523
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -344,7 +337,7 @@ https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&u=78be6644-0a6
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/1280px-ATN_News_logo.svg.png",ATN News HD
-https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779283752&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e20058ae495a80a83ec09cb9d82b9253
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",Ayna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
@@ -362,13 +355,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1780662760&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3ce64c165e70832dc446d5fe776bb64b
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/sptqqqj9/Boishakhi-TV.png",Boishakhi TV
-https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3f4ec98ffbd9567c21e8b2ee98e32d5
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/390.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/YQ8D9Wf0IT.png", Bangla Tv
-https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f3e9e2737e35147900c0f4add619ead6
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/3803.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://imglink.cc/cdn/H038J5LwdN.png", Channel I
-https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d2782c406bc6c9f853716c3dc41a439
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
@@ -389,7 +382,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/fVH9h8Tk/Desh-TV.png",Desh TV
-https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/YrDVpDt/Ekhon-Tv.png",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
@@ -407,13 +400,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://e7.pngegg.com/pngimages/500/179/png-clipart-bangladesh-logo-independent-television-television-channel-bd-logo-television-text-thumbnail.png",Independent TV
-https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jamuna.tv/uploads/settings/default_img_1.jpg",Jamuna TV
-https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2592d440f00d65738bd7f6c5158ce486
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/S7c6STRZ/Maasranga-TV.png",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
@@ -432,7 +425,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/d0hw38JN/Nexus-TV.png",Nexus TV
-https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/411.ts
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co.com/gLx9fX5N/News-24.png",News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
