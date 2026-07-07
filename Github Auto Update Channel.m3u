@@ -1,8 +1,8 @@
 #EXTM3U
 
 # ─────────── Sports───────────
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Toffee
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-6/0/master_2000.m3u8?hdntl=Expires=1783408885~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBntfFhwTsRtJn1ahnErk8XMl-jFS3sWpb6F4fgm7p5iYHCiw7sAp77S-nLYd5XrWpZedN5nAekwmrh5ZOFP0oG
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Argentina vs Egypt Toffee
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783524306~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AWIR_5EPeRjqC4pdh1IIlHW8W5m24an5C2xrBgsyOrsIHthip2kjh8AhFG_1Sqmq7Cyr_-2MVi4HG70LE1QbZyYUMX4J
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV S1
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
@@ -12,6 +12,24 @@ http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV NS
 http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV 
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV A
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV B 
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV C 
+https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy TV D
+https://tv.beyondtaxconsultants.com/api/robi/lps/http://116.204.149.16/somoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports 
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Bein Sports Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
