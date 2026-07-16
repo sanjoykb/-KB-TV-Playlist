@@ -2,7 +2,7 @@
 
 # ─────────── Sports───────────
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TT1
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5279f84103aab627da50150c1da4a7
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TT2
 https://liveplay1.camel4.live/live/sd-6MweKqVsYPdBkvbkrT.m3u8?txSecret=fa7289589bfafd5201f066d87410d354&txTime=6A588C36&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
