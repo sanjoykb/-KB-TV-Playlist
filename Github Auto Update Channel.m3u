@@ -1,17 +1,17 @@
 #EXTM3U
 
 # ─────────── Sports───────────
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Tkb
-https://liveplay1.camel4.live/live/sd-6Mwb6ydM9dH61q5r7Z.m3u8?txSecret=6c0189ef4ed36afc0c96d7d147375455&txTime=6A58C7E4&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TT1
+https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5279f84103aab627da50150c1da4a7
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TT2
 https://liveplay1.camel4.live/live/sd-6MweKqVsYPdBkvbkrT.m3u8?txSecret=fa7289589bfafd5201f066d87410d354&txTime=6A588C36&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 3 QF
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN3/tracks-v1a1/mono.m3u8?token=VFNOM3xub19jaGVja19pcHwxNzgzNzE3MDg1.e5f5a645393430768b21cc37aa47509f741901f08da36d1d4df0a93bd9c12394
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", T Sports WC
+https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TSN 4 QF
-https://trophystream.com/cors-proxy/https/deviantart.lovetier.bz/TSN4/tracks-v1a1/mono.m3u8?token=VFNONHxub19jaGVja19pcHwxNzgzNzE1ODEy.646b4a3ae5fac259db43ea7c6c0f3a55f4d164b46ac8c677ce0a8d11091e2284
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Somoy Tv WC
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", BTV Live NS
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
