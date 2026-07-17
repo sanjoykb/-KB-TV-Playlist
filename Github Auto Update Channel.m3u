@@ -509,7 +509,8 @@ http://fastshare1.com/series/25711345/late8airline/634702.mp4
 http://fastshare1.com/series/25711345/late8airline/634703.mp4
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg",Stranger Thing S4 E4
-http://fastshare1.com/series/25711345/late8airline/634704.mp4
+h#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg",Stranger Thing S4 E9
+http://fastshare1.com/series/25711345/late8airline/634709.mp4ttp://fastshare1.com/series/25711345/late8airline/634704.mp4
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg",Stranger Thing S4 E5
 http://fastshare1.com/series/25711345/late8airline/634705.mp4
@@ -525,3 +526,27 @@ http://fastshare1.com/series/25711345/late8airline/634708.mp4
 
 #EXTINF:-1 group-title="Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg",Stranger Thing S4 E9
 http://fastshare1.com/series/25711345/late8airline/634709.mp4
+
+# ───────────WiFi Server───────────
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",T Sports WiFi
+http://10.114.130.254:3255/TSportsHD_nk_nix/index.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",PTV WiFi
+http://10.114.130.254:3255/ptv_bdix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Star Jalsha WiFi
+http://10.114.130.254:3255/starjolsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Z Bangla WiFi
+http://10.114.130.254:3255/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Sun Bangla WiFi
+http://10.114.130.254:3255/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Sony Aath WiFi
+http://10.114.130.254:3255/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Discovery WiFi
+http://10.114.130.254:3255/Discovery/tracks-v1a1/mono.m3u8
+
