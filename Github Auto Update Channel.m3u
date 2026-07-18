@@ -12,13 +12,13 @@ https://liveplay1.camel4.live/live/hd-en-6MvYMRTGwLKvBTef9q.m3u8?txSecret=2ccc44
 https://liveplay1.camel4.live/live/sd-6MvYMRTGwLKvBTef9q.m3u8?txSecret=33910a4cb87bd0586b145ff5f85fbe53&txTime=6A5BE8BB&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
 
 #EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 1
-https://pull.niues.live/live/stream-607552_lhd.m3u8?auth_key=1784368945-0-0-0a2d82cb7cd68e2c1136eefa50ce0765
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784409205-0-0-6b29d654cd09b43c70e911e2c4a8fadd
 
 #EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 2
-https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=e184a31d211144ad267b91508ff7f5fb&txTime=6a5b9545
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1784381244-0-0-4a1d06bccb91930548ea32df89dc48e8
 
 #EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 3
-https://liveplay1.camel4.live/live/sd-6MwcqbbMxrZexKhDjD.m3u8?txSecret=b40e30b51d886e864d2bb252899cadd9&txTime=6A5B4231&lat=9000&auth=ce1dce97604b78089e67f5676b384590
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784386634-0-0-2962abdc17aa5e965767495668e1cc01
 
 #EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 1
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
