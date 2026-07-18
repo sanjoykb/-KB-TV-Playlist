@@ -532,6 +532,9 @@ http://fastshare1.com/series/25711345/late8airline/634709.mp4
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",T Sports WiFi
 http://10.114.130.254:3255/TSportsHD_nk_nix/index.m3u8
 
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Somoy TV
+http://10.114.130.254:3255/somyyt/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",PTV WiFi
 http://10.114.130.254:3255/ptv_bdix/tracks-v1a1/mono.m3u8
 
@@ -546,6 +549,9 @@ http://10.114.130.254:3255/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Sony Aath WiFi
 http://10.114.130.254:3255/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Jalsha Movies
+http://10.114.130.254:3255/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Discovery WiFi
 http://10.114.130.254:3255/Discovery/tracks-v1a1/mono.m3u8
