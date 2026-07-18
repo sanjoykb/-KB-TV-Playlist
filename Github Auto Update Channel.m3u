@@ -1,6 +1,39 @@
 #EXTM3U
 
+# ─────────── Live Time Play───────────
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 1
+https://test-streams.mux.dev/xz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 1
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 3
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Cola TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
 # ─────────── Sports───────────
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", TT1
 https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5279f84103aab627da50150c1da4a7
 
