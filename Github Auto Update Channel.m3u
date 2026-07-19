@@ -2,38 +2,8 @@
 
 # ─────────── Live Time Play───────────
 
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 1
-https://liveplay1.camel4.live/live/27551_12568347_ednm9whw05l5ryo.m3u8?txSecret=b453c3871c887a02ec5a9ea1b452da55&txTime=6A5BE44A&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 2
-https://liveplay1.camel4.live/live/hd-en-6MvYMRTGwLKvBTef9q.m3u8?txSecret=2ccc44961248fe258f71eb9ece2e37cb&txTime=6A5BE89E&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Camel Tv 3
-https://liveplay1.camel4.live/live/sd-6MvYMRTGwLKvBTef9q.m3u8?txSecret=33910a4cb87bd0586b145ff5f85fbe53&txTime=6A5BE8BB&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 1
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1784409205-0-0-6b29d654cd09b43c70e911e2c4a8fadd
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 2
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1784381244-0-0-4a1d06bccb91930548ea32df89dc48e8
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Soco Live 3
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784386634-0-0-2962abdc17aa5e965767495668e1cc01
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 1
-https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784408652-0-0-c2aeabe4bcb700998f947596203a2e73
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 2
-https://tfxo0gr4uqmtt8y41hcjugwzdnp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel6/playlist.m3u8?wsSecret=06c7861b2a65ff63dc4aa71c93c1cbb1&wsABSTime=1784451881&wsSession=a052e59bb15e8fd853f5698b-178440868244796&wsIPSercert=3a9b36d2a010324f7831f42059cf8f54&wsBindIP=2&wsserid=1168227343512559188
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Xoilac Live 3
-https://tfxo0gr4uqmtt8y41hcjugwzdnp3pptwzc3jt.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=4ec1e8d9a1b053c2a73701c51c4d3800&wsABSTime=1784451934&wsSession=a052e59bb15e8fd853f5698b-178440873491222&wsIPSercert=3a9b36d2a010324f7831f42059cf8f54&wsBindIP=2&wsserid=1168227343512559188
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Cola TV 1
-https://live05.miekgo.app/live/24561735.m3u8
-
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Cola Tv 2
-https://live05.miekgo.app/live/87379114.m3u8
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", WC26 Final - CTV
+https://test-streams.mux.dev/xz.m3u8
 
 # ─────────── Sports───────────
 
