@@ -2,8 +2,11 @@
 
 # ─────────── Live Time Play───────────
 
-#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", WC26 Final - CTV
-https://test-streams.mux.dev/xz.m3u8
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", WC26 Final - TSN
+https://dellamonic.s3.us-east-2.amazonaws.com/btsport_240p30.m3u8
+
+#EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", WC26 Final - TSN
+https://dellamonic.s3.us-east-2.amazonaws.com/btsport_480p30.m3u8
 
 # ─────────── Sports───────────
 
