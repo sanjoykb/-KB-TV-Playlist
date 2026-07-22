@@ -15,20 +15,32 @@ https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha B
+http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha C
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
+
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
-http://fastshare1.com/live/25711345/late8airline/23305.ts
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112571
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
-http://fastshare1.com/live/25711345/late8airline/23306.ts
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="", Enter10 Bangla
 http://fastshare1.com/live/25711345/late8airline/3801.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
-http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -73,9 +85,6 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/E86bN6IAxl.jpg", Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://imglink.cc/cdn/cScI5tEUjV.png", Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
