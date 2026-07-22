@@ -3,12 +3,12 @@
 # ─────────── Live Time Play───────────
 
 #EXTINF:-1 group-title="Live Stream" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Live Stream
-https://test-streams.mux.dev/xz.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 
 # ─────────── Sports───────────
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/c4WwwvlSm0.jpg", Sports
-https://pull.niues.live/live/stream-9912115_lsd.m3u8?auth_key=1784190684-0-0-3c5279f84103aab627da50150c1da4a7
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/c4WwwvlSm0.jpg", Sports T1
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sony_max_576/sony_max_576.m3u8?bitrate=1000000&channel=sony_max_576&gp_id
 
 # ─────────── Entertainment───────────
 
@@ -307,7 +307,7 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 # ─────────── Documentary───────────
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla NS
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373
+https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla
 http://103.180.212.191:3500/live/573.m3u8
