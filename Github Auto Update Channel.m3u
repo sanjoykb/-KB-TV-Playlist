@@ -13,7 +13,7 @@ https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 # ─────────── Entertainment───────────
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
-https://live.bdixbd.net/api/proxy/stream.m3u8?url=http://103.114.11.37:8081/Star-Jalsha/tracks-v1a1/mono.m3u8?token=dsfsdfsdfsdf
+http://103.191.99.248:5550/302/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha B
 http://tvsen7.aynascope.net/sjhdbd/index.m3u8
