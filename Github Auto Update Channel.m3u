@@ -2,6 +2,9 @@
 
 # ─────────── Live Time Play───────────
 
+#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Spider Man Brand New Day
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Movies/Dubbed%20Movies/Spider%20Man/Spider.m3u8
+
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Spy X Family S3E1
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Spy%20X%20Family/1/S03_E01.m3u8
 
