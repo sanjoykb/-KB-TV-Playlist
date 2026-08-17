@@ -1,6 +1,38 @@
 #EXTM3U
 
-# ─────────── Live Time Play───────────
+# ───────────Anime──────────
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E1
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/1/Demon_Slayer_01.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E2
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/2/Demon_Slayer_02.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E3
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/3/Demon_Slayer_03.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E4
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/4/Demon_Slayer_04.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E5
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/5/Demon_Slayer_05.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E6
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/6/Demon_Slayer_06.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E7
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/7/Demon_Slayer_07.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E8
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/8/Demon_Slayer_08.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E9
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/9/Demon_Slayer_09.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E10
+https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/10/Demon_Slayer_10.m3u8
+
+# ─────────── OTT───────────
 
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Spider Man Brand New Day
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Movies/Dubbed%20Movies/Spider%20Man/Spider.m3u8
@@ -50,29 +82,11 @@ https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slaye
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Messi Phonk
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/KB%20Project/Messi%20Phonk.m3u8
 
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Video DL
-http://dl9.b442d6eefbd6173bad7ee5bde6cd31e8.com/filedownload/G8cEsvIWMIt6EPBKup4hHSb5trfPdXB4uor9ypRc5EKJrsgfCQsTaaizZPrK3Zd4aFHisaPC1L2MvowdhNGlriOFVAPLNhD925nNMUFkdKyPI0HSO1SaE_s_adtHlrNyIHyGD0iAyuYTsoFg9jYBYA_s_w_p_EyA/Pistol-Balam-Ki-Official-Video-Hanssika-Digiya-Baldev-Singh-Parihar-Bo-lamba-Rakhe-Baal.mkv
-
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Maa IntiBangaram [Hindi] 480p
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Movies/Maa%20IntiBangaram%20Hindi%20480P.mkv
 
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Ep 94
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Bachelor%20Point/Bachelor%20EP%2094/Bachelor_EP_94.m3u8
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Miami Match
-https://live05.meung.app/live/75748097.m3u8?_t=1786843065060
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Avatar 1 MVBX
-https://bcdn.hakunaymatata.com/tran-audio/20250605/cd2bab476d7a18ae27aeeaddeb314ca9.mp4?sign=654ab4d0e5d9d438f9af6613ae3a8342&t=1785665395
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Stranger Thing S4 E8
-https://pixeldrain.dev/api/file/aVQ5Z4Za?download
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Stranger Thing S4 E9
-https://pixeldrain.dev/api/file/6PsvLGR4?download
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Shang-Chi
-https://play.movielinkbd.mom/watch/KX-d79vZbRvXIyJV.O2KVCC4K862VLCd--7mKaoOg3srRRir8k4oNKuP280kcOB88Zu6AVDZNpOkYhvcDXXfBdcIFd-ZBo9Sjh2x6JkNs2Tawl8xjcyz-mNRo24llYW_W_4PXRs2NdZ_w88R0v_cJRrsaohZ3vmP8ooMvsoPjdm2x7b3w6dUBf7jwnB6qKWh6CC2dQMuzIF7UcAKY08swhAkBJa75ZCUdYYteQ7MngJYLhg.qg_Fn4hAU22M542IpWfRMA
 
 # ─────────── Sports───────────
 
@@ -405,19 +419,6 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/ebC033LNf2.png", Animal Planet
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-
-# ─────────── OTT, Movies, Series───────────
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Point EP 101
-https://play.movielinkbd.mom/watch/HN__QnQx3IeVpgSY.0DAr2JeSeGfLssRmtGR8TMp4TNLbIMg2FFtMj7cReixzyx22Dh7kRhzsFrJLzg2Q9wVt8DcPo6ai.33JphcU0HGHzcfm-Zx97xg
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Point EP 102
-https://play.movielinkbd.mom/watch/wCLQwhJ6TBrZzcLL.QbcZq3NlLkw96aqnIcNooCpAXjJMhYD6sXS3p89Z3aMtWdGp2DIv8GegXLauLPhcGsZN3RVmA1A7.ClldiXSwwvxx16c4QQIwLw
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Point EP 103
-https://play.movielinkbd.mom/watch/_rVC8QDld-n0jMMB.3OLUKKiiIJrVeyLyPnXwCiXybun00hLnFdN2QLVvOO0tPmaOqVoTU0mkv1GI4oQobIZaFXmShUP0.bgi4kNKaqJGMbbG3mBghWw
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Point EP 104 N
-https://play.movielinkbd.mom/watch/KITHnHwXbOa8v1cm.n3-GcSOKRb_VFvaoAUZZbr1crKZQUSM7DvFtlSppCK2YIlmvII-mJg85rUZlsfgPONoL0tJQyiGW.uPpV4UEZ2G1V8_t9eGuk-w
 # ───────────WiFi Server───────────
 
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",T Sports WiFi
