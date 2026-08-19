@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ───────────Anime──────────
+#EXTINF:-1 group-title="Live" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Inter Miami Match
+https://live05.miekgo.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E1
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/1/Demon_Slayer_01.m3u8
