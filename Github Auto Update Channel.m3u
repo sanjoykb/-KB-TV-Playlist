@@ -1,11 +1,32 @@
 #EXTM3U
 
-# ───────────Anime──────────
-#EXTINF:-1 group-title="Live" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", 1.Inter Miami Match
-https://live05.miekgo.app/live/78905744.m3u8
+# ───────────Bachelor──────────
 
-#EXTINF:-1 group-title="Live" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", 2.Inter Miami Match
-https://liveplay1.camel4.live/live/sd-6MvZ6B9zY9sGAVCoDy.m3u8?txSecret=293cae66d09f9deab7488a78805c4a97&txTime=6A86403B&lat=9000&auth=ff3d7f805ab82dd90ddbfe858e7ccb0d
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 106
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/106/S05E106.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 107
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/107/S05E107.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 108
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/108/S05E108.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 109
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/109/S05E109.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 110
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/110/S05E110.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 111
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/111/S05E111.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 112
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/112/S05E112.m3u8
+
+# ───────────Anime──────────
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E1
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/1/Demon_Slayer_01.m3u8
