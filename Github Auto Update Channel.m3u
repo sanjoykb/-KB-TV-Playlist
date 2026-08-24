@@ -173,34 +173,22 @@ http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
 # ─────────── Entertainment───────────
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha
-http://103.191.99.248:5550/302/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha B
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha C
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/23218.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla B
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112571
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png", Zee Bangla C
 https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/23306.ts
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/oDQ4LN8zlN.png", Colors Bangla B
-http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Sananda Tv
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla B
-http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/vyWRYIqnfy.png", Sun Bangla
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/3753.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="", Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -208,14 +196,14 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/5tDvvUEpWx.png", Sony Aath B
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/23304.ts
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/hEzUhoTW3x.jpg", Jalsha Movies B
-http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="", Zee Bangla Cinema
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/410.ts
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://imglink.cc/cdn/1_dUKmt1Oe.png", G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -464,20 +452,8 @@ https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1
 
 # ─────────── Documentary───────────
 
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla NS
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8?token=2c8ee71be8bca324c7695c06255bb0df4ef4efc8-161b0b59279082dc59bee57ac116fd64-1776169973-1776166373
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Bangla
-http://103.180.212.191:3500/live/573.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Hindi
-http://103.180.212.191:3500/live/3428.m3u8
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery Hindi B
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
-
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Geography HD NS
-http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8?token=b65b1f2861f21a6ab3b4916d72ad33c40559f5f2-93bd82f1e08068f6a05007af78dc76bb-1776169973-1776166373
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/mv5xd7yy0d.png", Discovery
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9393.ts
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imglink.cc/cdn/eEZmseF3Tb.jpg", Geography HD
 http://202.70.146.135:8000/play/a05o/index.m3u8
