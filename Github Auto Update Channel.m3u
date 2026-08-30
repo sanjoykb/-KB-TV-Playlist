@@ -2,6 +2,13 @@
 
 # ───────────Bachelor──────────
 
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Inter Miami Match
+https://live.mediafreightnet.com/live/channel18.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Inter Miami Match http
+http://live.mediafreightnet.com/live/channel18.m3u8
+
 #EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
 
