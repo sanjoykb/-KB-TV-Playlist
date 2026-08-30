@@ -2,13 +2,6 @@
 
 # ───────────Bachelor──────────
 
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Inter Miami Match
-https://live.mediafreightnet.com/live/channel18.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Inter Miami Match http
-http://live.mediafreightnet.com/live/channel18.m3u8
-
 #EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
 
@@ -112,6 +105,61 @@ https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slaye
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E26
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S1/26/26.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E1
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/1/S2E1.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E2
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/2/S2E2.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E3
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/3/S2E3.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E4
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/4/S2E4.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E5
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/5/S2E5.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E6
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/6/S2E6.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E7
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/7/S2E7.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E8
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/8/S2E8.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E9
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/9/S2E9.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E10
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/10/S2E10.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E11
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/11/S2E11.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E12
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/12/S2E12.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E13
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/13/S2E13.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E14
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/14/S2E14.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E15
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/15/S2E15.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E16
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/16/S2E16.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E17
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/17/S2E17.m3u8
+
+#EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S2E18
+https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S2/18/S2E18.m3u8
+
 
 # ─────────── OTT───────────
 
