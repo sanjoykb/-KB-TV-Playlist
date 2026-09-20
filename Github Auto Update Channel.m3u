@@ -1,13 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Tapmad Test
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Real Madrid vs Atletico Madrid
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/level_1.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Tapmad 2
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/level_1.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Live 1
-https://redcardonly.net/hls-sec/vccp-rczhOTAJb5nBDsjlQ/1789866944/332/index.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Real Madrid vs Atletico Madrid
+https://live2.zundrixmediapipeline.com/live/channel6.m3u8
 
 # ───────────Bachelor──────────
 
