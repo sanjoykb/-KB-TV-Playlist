@@ -417,7 +417,6 @@ http://cdn.adultiptv.net/asian.m3u8
 
 # ─────────── OTT───────────
 
-#EXTM3U
 #EXTINF:-1 group-title="Adult Channels" tvg-logo="https://adultiptv.net/lists/logo.png",Pornstar
 https://xc.adultiptv.net/live/adultiptv/adultiptv/1.ts
 #EXTINF:-1 group-title="Adult Channels" tvg-logo="https://adultiptv.net/lists/logo.png",Blowjob
