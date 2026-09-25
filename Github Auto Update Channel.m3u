@@ -2,18 +2,13 @@
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 1.Bangladesh vs Malaysia
 https://live2.zundrixmediapipeline.com/live/channel11.m3u8
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 2.Bangladesh vs Malaysia
 https://live2.zundrixmediapipeline.com/live/channel12.m3u8
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 3.Bangladesh vs Malaysia
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 4.Bangladesh vs Malaysia
 https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790329683-0-0-45e056ba80457a63ad62b4be2957cd64
-
 # ───────────Bachelor──────────
-
 
 #EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
