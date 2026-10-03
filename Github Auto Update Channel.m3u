@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Portuga Match
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/level_1.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Germany Match 
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/level_1.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 1.Bangladesh vs Malaysia
+https://live2.zundrixmediapipeline.com/live/channel11.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Netherland Match
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/level_1.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 2.Bangladesh vs Malaysia
+https://live2.zundrixmediapipeline.com/live/channel12.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 3.Bangladesh vs Malaysia
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", 4.Bangladesh vs Malaysia
+https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1790329683-0-0-45e056ba80457a63ad62b4be2957cd64
+
 # ───────────Bachelor──────────
+
 
 #EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
@@ -648,3 +654,253 @@ http://10.114.130.254:3255/JALSHA-MOVIES-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Wifi Cloud Server" tvg-logo="https://imglink.cc/cdn/cW8wIk4N4w.jpg",Discovery WiFi
 http://10.114.130.254:3255/Discovery/tracks-v1a1/mono.m3u8
+
+# ───────────Additional───────────
+
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",✦●✦  IN BANGLA ✦●✦
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33684.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/clrb.png" group-title="AS | INDIA BANGLA",IN| COLORS BANGLA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/133492.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/strjalmv.png" group-title="AS | INDIA BANGLA",IN| STAR JALSHA MOVIES FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/132121.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/sjalsha1.png" group-title="AS | INDIA BANGLA",IN| STAR JALSHA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/97525.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/zebng.png" group-title="AS | INDIA BANGLA",IN| ZEE BANGLA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/132123.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ntv.png" group-title="AS | INDIA BANGLA",IN| NTV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33569.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/bangvs.png" group-title="AS | INDIA BANGLA",IN| BANGLA VISION HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149626.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ch.png" group-title="AS | INDIA BANGLA",IN| CHANNEL I HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149620.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/atnbng.png" group-title="AS | INDIA BANGLA",IN| ATN BANGLA SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33453.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/atnns.png" group-title="AS | INDIA BANGLA",IN| ATN NEWS HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149628.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| TIME TELEVISION
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/1455365.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/deshb.png" group-title="AS | INDIA BANGLA",IN| DESHE BIDESHE TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149618.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/dbcns.png" group-title="AS | INDIA BANGLA",IN| DBC NEWS HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149619.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/somns.png" group-title="AS | INDIA BANGLA",IN| SOMOY NEWS TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149609.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/indens.png" group-title="AS | INDIA BANGLA",IN| INDEPENDENT NEWS HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149614.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| CHANNEL 9 HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149621.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/jumn.png" group-title="AS | INDIA BANGLA",IN| JAMUNA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149607.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| DD BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/1455364.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/btvwr1.png" group-title="AS | INDIA BANGLA",IN| BTV WORLD HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149622.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/btvwr1.png" group-title="AS | INDIA BANGLA",IN| BTV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149623.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/myt0.png" group-title="AS | INDIA BANGLA",IN| MY TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149606.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/aakash.png" group-title="AS | INDIA BANGLA",IN| AAKAASH BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33518.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/mohn1.png" group-title="AS | INDIA BANGLA",IN| MOHONA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149613.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/atnisl.png" group-title="AS | INDIA BANGLA",IN| ATN ISLAMIC TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149627.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ganbms.png" group-title="AS | INDIA BANGLA",IN| GAAN BANGLA-MUSIC HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149615.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/zebncn.png" group-title="AS | INDIA BANGLA",IN| ZEE BANGLA CINEMA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33655.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ze24gh.png" group-title="AS | INDIA BANGLA",IN| ZEE 24 GHANTA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33654.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/snyaat.png" group-title="AS | INDIA BANGLA",IN| SONY AATH HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33609.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/sanget.png" group-title="AS | INDIA BANGLA",IN| SANGEET BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33602.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/manj.png" group-title="AS | INDIA BANGLA",IN| MANJARI TV SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197335.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/boish0.png" group-title="AS | INDIA BANGLA",IN| BOISHAKHI TV
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197334.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/sadh.png" group-title="AS | INDIA BANGLA",IN| SADHNA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197333.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/asian0.png" group-title="AS | INDIA BANGLA",IN| ASIAN TV
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197332.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/khusboo.png" group-title="AS | INDIA BANGLA",IN| KHUSBOO BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197331.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ch24.png" group-title="AS | INDIA BANGLA",IN| CHANNEL 24
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197330.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| AMAR BANGAL
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197329.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ekat.png" group-title="AS | INDIA BANGLA",IN| EKATTOR TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/197328.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/tarn.png" group-title="AS | INDIA BANGLA",IN| TARANG TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33629.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/dhomms.png" group-title="AS | INDIA BANGLA",IN| DHOOM MUSIC HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149617.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/atnms.png" group-title="AS | INDIA BANGLA",IN| ATN MUSIC HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149629.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/nsstms.png" group-title="AS | INDIA BANGLA",IN| NEWS TIMES HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/133491.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ruposhb.png" group-title="AS | INDIA BANGLA",IN| RUPOSHI BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33598.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/etv.png" group-title="AS | INDIA BANGLA",IN| ETV BANGAL HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149616.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/abpa.png" group-title="AS | INDIA BANGLA",IN| ABP ANANDA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/133493.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/itvban.png" group-title="AS | INDIA BANGLA",IN| ITV BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/100036.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/sunbn.png" group-title="AS | INDIA BANGLA",IN| SUN BANGLA SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/132122.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/nago.png" group-title="AS | INDIA BANGLA",IN| NAGORIK TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149630.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/bang.png" group-title="AS | INDIA BANGLA",IN| BANGLA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149625.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/movbng.png" group-title="AS | INDIA BANGLA",IN| ITV MOVIE BANGLA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149612.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/deept.png" group-title="AS | INDIA BANGLA",IN| DEEPTO HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149608.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ent1.png" group-title="AS | INDIA BANGLA",IN| ENTER 10 BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/149605.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/disban.png" group-title="AS | INDIA BANGLA",IN| DISCOVERY FHD BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/132315.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/madbng.png" group-title="AS | INDIA BANGLA",IN| MADANI TV BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33535.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/ntge.png" group-title="AS | INDIA BANGLA",IN| NAT GEO HD BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/132322.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| NEWS 24 HD BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/5823.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| KTV BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/5824.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ind/flg.png" group-title="AS | INDIA BANGLA",IN| TV ONE BANGLA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/5825.ts
+
+# ───────────A2───────────
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/flg.png" group-title="AS |  BANGLADESH",✦●✦ BANGLADESH ✦●✦
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/33333.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/abp.png" group-title="AS |  BANGLADESH",BD| ABP ANANDA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171502.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/flg.png" group-title="AS |  BANGLADESH",BD| ASIAN TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171501.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/atb.png" group-title="AS |  BANGLADESH",BD| ATN BANGLA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171499.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/atg.png" group-title="AS |  BANGLADESH",BD| ATN BANGLA UK HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171500.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/att.png" group-title="AS |  BANGLADESH",BD| ATN MUSIC TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171498.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/atw.png" group-title="AS |  BANGLADESH",BD| ATN NEWS HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171497.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/bag.png" group-title="AS |  BANGLADESH",BD| BANGLA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171495.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ban10.png" group-title="AS |  BANGLADESH",BD| BANGLA VISION HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171494.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/boi0.png" group-title="AS |  BANGLADESH",BD| BOISHAKHI TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171492.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ch.png" group-title="AS |  BANGLADESH",BD| CHANNEL 24 HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171489.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/cn9.png" group-title="AS |  BANGLADESH",BD| CHANNEL 9 HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171488.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/dee.png" group-title="AS |  BANGLADESH",BD| DEEN TV UK SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171458.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/dep.png" group-title="AS |  BANGLADESH",BD| DEEPTO TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171465.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/dis1.png" group-title="AS |  BANGLADESH",BD| DISCOVERY BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171483.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/flg.png" group-title="AS |  BANGLADESH",BD| TIME TV SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/19036.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/pb.png" group-title="AS |  BANGLADESH",BD| IBTV USA
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/194355.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/bngl.png" group-title="AS |  BANGLADESH",BD| Bangla channel HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/194291.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ek.png" group-title="AS |  BANGLADESH",BD| EKATTOR TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171482.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/gaa.png" group-title="AS |  BANGLADESH",BD|  GAAN BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171481.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ind.png" group-title="AS |  BANGLADESH",BD| INDEPENDENT TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171480.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/iqr.png" group-title="AS |  BANGLADESH",BD| IQRA BANGLA SD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171476.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/jam.png" group-title="AS |  BANGLADESH",BD| JAMUNA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171462.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/moh.png" group-title="AS |  BANGLADESH",BD| MOHONA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171479.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/new2.png" group-title="AS |  BANGLADESH",BD| NEWS 24 HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171464.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/new3.png" group-title="AS |  BANGLADESH",BD| NEWS TIME HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171477.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/nr.png" group-title="AS |  BANGLADESH",BD| NRB TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171475.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ntv.png" group-title="AS |  BANGLADESH",BD| NTV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171473.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ntu.png" group-title="AS |  BANGLADESH",BD| NTV UK HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171474.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/rups.png" group-title="AS |  BANGLADESH",BD| RUPOSHI BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171472.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/sg.png" group-title="AS |  BANGLADESH",BD| SANGEET BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171471.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/sat.png" group-title="AS |  BANGLADESH",BD| SATV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171470.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/son1.png" group-title="AS |  BANGLADESH",BD| SONY AATH HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171468.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/zee.png" group-title="AS |  BANGLADESH",BD| ZEE 24 GHANTA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171506.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/flg.png" group-title="AS |  BANGLADESH",BD|  AAKAASH BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171504.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/atl.png" group-title="AS |  BANGLADESH",BD| ATN ISLAMIC TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171493.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ban.png" group-title="AS |  BANGLADESH",BD| ETV BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171496.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/btv.png" group-title="AS |  BANGLADESH",BD| BTV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171490.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/btw.png" group-title="AS |  BANGLADESH",BD| BTV WORLD HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171491.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/chn.png" group-title="AS |  BANGLADESH",BD| CHANNEL I HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171487.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/chns.png" group-title="AS |  BANGLADESH",BD| CHANNEL S HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/29752.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/cnn.png" group-title="AS |  BANGLADESH",BD| CNN BANGLA TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171452.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/co.png" group-title="AS |  BANGLADESH",BD| COLORS BANGLA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171507.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/cbv.png" group-title="AS |  BANGLADESH",BD| DBC NEWS HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171486.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ddb.png" group-title="AS |  BANGLADESH",BD| DD BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171485.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/dh.png" group-title="AS |  BANGLADESH",BD| DHOOM MUSIC HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171484.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/em.png" group-title="AS |  BANGLADESH",BD| EMAN TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171460.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ent.png" group-title="AS |  BANGLADESH",BD| ENTER 10 BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171456.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/isl.png" group-title="AS |  BANGLADESH",BD| ISLAM CHANNEL
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171449.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/itb.png" group-title="AS |  BANGLADESH",BD|  ITV BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171453.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/ja.png" group-title="AS |  BANGLADESH",BD| STAR JALSHA MOVIES FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171505.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/mad.png" group-title="AS |  BANGLADESH",BD| MADANI TV BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171459.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/mov.png" group-title="AS |  BANGLADESH",BD| MOVIE BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171478.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/myt.png" group-title="AS |  BANGLADESH",BD| MY TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171461.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/nag.png" group-title="AS |  BANGLADESH",BD|  NAGORIK TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171503.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/new1.png" group-title="AS |  BANGLADESH",BD| NEWS 18 BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171450.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/rang.png" group-title="AS |  BANGLADESH",BD| RANG TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171451.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/som.png" group-title="AS |  BANGLADESH",BD|  SOMOY NEWS TV HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171469.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/str.png" group-title="AS |  BANGLADESH",BD|  STAR JALSHA FHD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171457.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/strj.png" group-title="AS |  BANGLADESH",BD|  STAR JHALSA MOVIES
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171467.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/sun.png" group-title="AS |  BANGLADESH",BD| SUN BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171455.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/tbh.png" group-title="AS |  BANGLADESH",BD| TBN UK HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171454.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/zee1.png" group-title="AS |  BANGLADESH",BD| ZEE BANGLA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171463.ts
+#EXTINF:-1 tvg-logo="https://lo1.in/ban/zee2.png" group-title="AS |  BANGLADESH",BD| ZEE BANGLA CINEMA HD
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/171466.ts
+#EXTINF:-1 group-title="AS |  BANGLADESH",BD| T SPORTS
+http://jiugvcta.icysmart.com/live/KS3PZD49/XQT4RR4X/1031351.ts
+
