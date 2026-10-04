@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Brazil vs India
-https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Argentina Match
+https://live05.meung.app/live/75915087_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", xBrazil vs India
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1791039300-0-0-54ed869c6a709c541c9bc2be31156920
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", xArgentina Match
+https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1791075941-0-0-6305e80d5ebc95565c370a5fae5b2283
 
 # ───────────Bachelor──────────
 
