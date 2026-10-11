@@ -1,14 +1,86 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/P/file_000000005c8082119a6f652f2fca41f2.png", nT Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", vvvvArgentina Match
-http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://imglink.cc/cdn/Y7ojCiU5xs.png", xArgentina Match
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", xxArgentina Match
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
+# ──────────Live Event──────────
 
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Unite Sports
+http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Willow TV
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", PTV
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/tracks-v1a1/mono.ts.m3u8
+
+# ───────────Ayna OTT──────────
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", ATN News
+https://tvsen6.aynaott.com/da6WMXAk/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Jamuna
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Ekattor
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Independent
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Deepto Tv
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Ekhon Tv
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", News24 BD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Boishakhi
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Bangla Tv
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", SA Tv
+https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Ananda Tv
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", My Tv
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Nexus Tv
+https://tvsen6.aynaott.com/Epm7WrFa/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Asian Tv
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Bijoy Tv
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", PTV
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Willow Tv
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Entertain Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 group-title="Ayna OTT" tvg-logo="https://imglink.cc/cdn/AZ5oBiFBRx.png", Disney
+https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
 # ───────────Bachelor──────────
 
 
