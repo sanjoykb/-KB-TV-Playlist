@@ -1,6 +1,8 @@
 #EXTM3U
 
 # ──────────Live Event──────────
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/01m553294apvk8mvtmcg.jpg", Arsenal vs Forest
+https://live05.zhwpg.app/live/16226575_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bltea8dbf2c3be62a24.jpg", tInter Miami vs Atalanta
 https://live05.zhwpg.app/live/16226575_tsc.m3u8
