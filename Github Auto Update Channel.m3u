@@ -1,14 +1,33 @@
 #EXTM3U
 
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/fbc81ec9b2ec828743c7d86fc9092c5cab0fb632758ef20854ad8b893f87933a-1200-750.webp", Sabah vs Borussia Dortmund
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8b80043017c55eba56fb5301db543a50c405a69991cb5dd616e23875593108f5.jpg",  PSG vs Barcelona
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8b80043017c55eba56fb5301db543a50c405a69991cb5dd616e23875593108f5.jpg",  PSG vs Barcelona
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images.jpeg", Fenerbahçe vs Slavia Prague
-https://live05.qioetj.app/live/33982309_tsc.m3u
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/https___media.mrfixitstips.co.uk_main_2026_10_Stuttgart-v-Atletico-Madrid.png", Stuttgart vs Atlético Madrid
+https://live05.qioetj.app/live/75915087_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/d22d4340e8e8bbf66dde3de3b4736bbb.webp", Manchester City vs AEK Athens
+https://live05.qioetj.app/live/07428422_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8f97af01b83b2e94b17645d7ce2b00c4.webp", Liverpool vs Villarreal
+https://live05.qioetj.app/live/02456966_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/event_bg_teams.jpg", Napoli vs Bodø/Glimt
+https://live05.qioetj.app/live/16226575_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e2c521eef0bb5070edfefed5f80fb15b23c7db2b658f84bec620c0eb6342d9bd-1200-750.webp", FC Porto vs PSV Eindhoven
+https://live05.qioetj.app/live/87379114_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/05fa017a3540bef7c4c60c57b21fcb34c83e41e28f125be978113b97a72fe28b-1200-750.webp", AS Roma vs Slovan Bratislava
+https://live05.qioetj.app/live/19919577_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjkl/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", Unite Sports
 http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
@@ -136,6 +155,30 @@ https://media.kbhub.online/OTT%20KB/Bachelor%20Point/119/Bachelor.Point.S05E119.
 
 #EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 120
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/120/Bachelor.Point.S05E120.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 121
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/121/Episode_121.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 122
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/122/Episode_122.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 123
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/123/Episode_123.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 124
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/124/Episode_124.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 125
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/125/Episode_125.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 126
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/126/Episode_126.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 127
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/127/Episode_127.m3u8
+
+#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 128
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/128/Episode_128.m3u8
 
 # ───────────Anime──────────
 
