@@ -1,11 +1,17 @@
 #EXTM3U
 
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/83c4ac729c0067284716d95b188a2d02.webp", Como vs Manchester United
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/697fa092a8727da18a6c5d1e999dca09.webp", Real Madrid vs RB Leipzig
+https://live05.qioetj.app/live/07428422_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/si_article_builder_3564690161.png",  Bayern Munich vs Arsenal
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c7744b7dd15edac98417a06fa5be7bb4.webp", Lille OSC vs Galatasaray
-https://live05.qioetj.app/live/07428422_tsc.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/77330d5402f3c48e1172cb26df0a510f.webp", Inter Milan vs Shakhtar Donetsk
+https://live05.qioetj.app/live/87547578_tsc.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/d8d08f57cd04c02a595d3f4799eed9e5.webp", Aston Villa vs Viking FK
+https://live05.qioetj.app/live/02456966_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
