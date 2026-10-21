@@ -1,25 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/83c4ac729c0067284716d95b188a2d02.webp", Como vs Manchester United
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c7744b7dd15edac98417a06fa5be7bb4.webp", Lille OSC vs Galatasaray
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/https___media.mrfixitstips.co.uk_main_2026_10_Stuttgart-v-Atletico-Madrid.png", Stuttgart vs Atlético Madrid
-https://live05.qioetj.app/live/75915087_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/d22d4340e8e8bbf66dde3de3b4736bbb.webp", Manchester City vs AEK Athens
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c7744b7dd15edac98417a06fa5be7bb4.webp", Lille OSC vs Galatasaray
 https://live05.qioetj.app/live/07428422_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8f97af01b83b2e94b17645d7ce2b00c4.webp", Liverpool vs Villarreal
-https://live05.qioetj.app/live/02456966_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/event_bg_teams.jpg", Napoli vs Bodø/Glimt
-https://live05.qioetj.app/live/16226575_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e2c521eef0bb5070edfefed5f80fb15b23c7db2b658f84bec620c0eb6342d9bd-1200-750.webp", FC Porto vs PSV Eindhoven
-https://live05.qioetj.app/live/87379114_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/05fa017a3540bef7c4c60c57b21fcb34c83e41e28f125be978113b97a72fe28b-1200-750.webp", AS Roma vs Slovan Bratislava
-https://live05.qioetj.app/live/19919577_tsc.m3u8
