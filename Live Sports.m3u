@@ -1,22 +1,13 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/83c4ac729c0067284716d95b188a2d02.webp", Como vs Manchester United
-https://live05.qioetj.app/live/08552895_tsc.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c7744b7dd15edac98417a06fa5be7bb4.webp", Lille OSC vs Galatasaray
-https://live05.qioetj.app/live/07428422_tsc.m3u8
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/697fa092a8727da18a6c5d1e999dca09.webp", Real Madrid vs RB Leipzig
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+https://live05.qioetj.app/live/07428422_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/si_article_builder_3564690161.png",  Bayern Munich vs Arsenal
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/b70fa6fbf0cfef2258b686d65dbf484c.webp", Real Betis vs Feyenoord
-https://live05.qioetj.app/live/75915087_tsc.m3u8
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/77330d5402f3c48e1172cb26df0a510f.webp", Inter Milan vs Shakhtar Donetsk
-https://live05.qioetj.app/live/07428422_tsc.m3u8
+https://live05.qioetj.app/live/87547578_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/d8d08f57cd04c02a595d3f4799eed9e5.webp", Aston Villa vs Viking FK
 https://live05.qioetj.app/live/02456966_tsc.m3u8
