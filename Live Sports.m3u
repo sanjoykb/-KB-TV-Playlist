@@ -1,9 +1,9 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8b80043017c55eba56fb5301db543a50c405a69991cb5dd616e23875593108f5.jpg",  PSG vs Barcelona
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/83c4ac729c0067284716d95b188a2d02.webp", Como vs Manchester United
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/8b80043017c55eba56fb5301db543a50c405a69991cb5dd616e23875593108f5.jpg",  2.PSG vs Barcelona
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c7744b7dd15edac98417a06fa5be7bb4.webp", Lille OSC vs Galatasaray
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/https___media.mrfixitstips.co.uk_main_2026_10_Stuttgart-v-Atletico-Madrid.png", Stuttgart vs Atlético Madrid
