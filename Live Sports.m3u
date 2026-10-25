@@ -1,13 +1,13 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/697fa092a8727da18a6c5d1e999dca09.webp", Real Madrid vs RB Leipzig
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/59f440f633340fcf7ea16e678ed4b711.webp", Barcelona vs Real Madrid
 https://live05.qioetj.app/live/07428422_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/si_article_builder_3564690161.png",  Bayern Munich vs Arsenal
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/59f440f633340fcf7ea16e678ed4b711.webp", Barcelona vs Real Madrid 2
 https://live05.qioetj.app/live/08552895_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/77330d5402f3c48e1172cb26df0a510f.webp", Inter Milan vs Shakhtar Donetsk
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/59f440f633340fcf7ea16e678ed4b711.webp", Barcelona vs Real Madrid 3
 https://live05.qioetj.app/live/87547578_tsc.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/d8d08f57cd04c02a595d3f4799eed9e5.webp", Aston Villa vs Viking FK
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/59f440f633340fcf7ea16e678ed4b711.webp", Barcelona vs Real Madrid 4
 https://live05.qioetj.app/live/02456966_tsc.m3u8
