@@ -1,13 +1,13 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="", Ballon D'Or Live
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", Ballon D'Or Live
 https://live2.domaincdn.cc/livecdn/channel-15.m3u8?auth_key=3000001793039287-0-0-b170d9972c5ad3ed517b3e19348abc49
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="", Ballon D'Or Live 2
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", Ballon D'Or Live 2
 https://live2.jorvakstreamcache.com/live/channel15.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="", Ballon D Or Live 3
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", Ballon D Or Live 3
 https://live2.domaincdn.cc/livecdn/channel-5.m3u8?auth_key=3000001792957718-0-0-3f42c43571c384bda57a48c052f40e86
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="", Ballon D Or Live 4
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", Ballon D Or Live 4
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
