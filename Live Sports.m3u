@@ -1,7 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", Inter Miami vs Cincinnati
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793229494-0-0-029c27c9ffd5a681fd57f11b6c62a375
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="", England vs Sri Lanka
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/singapore7_540.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/ballon_d_or_ceremony_2026_london.jpeg", 2.Inter Miami vs Cincinnati
 https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793229494-0-0-029c27c9ffd5a681fd57f11b6c62a375
