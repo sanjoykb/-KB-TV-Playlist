@@ -1,5 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e8ac93a2fbced3a927055d73418e58cb.webp", Barcelona vs Alves
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/ProdPK_export_clone_clone_clone_540.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images.png", xMan City vs Brighton
 https://live05.miekgo.app/live/08552895.m3u8
