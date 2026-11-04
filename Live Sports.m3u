@@ -5,3 +5,9 @@ https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/6a9a84c10a9dd4ff3f7b6a0627097282.webp", Fenerbahçe vs Liverpool
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/singapore9_540.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/a3ab01be1959229d99b82d2e3b85ad1f.webp", 2.AEK Athens vs Real Madrid
+https://live05.miekgo.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/6a9a84c10a9dd4ff3f7b6a0627097282.webp", 2.Fenerbahçe vs Liverpool
+https://live05.miekgo.app/live/33982309.m3u8
