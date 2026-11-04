@@ -1,13 +1,16 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/a3ab01be1959229d99b82d2e3b85ad1f.webp", AEK Athens vs Real Madrid
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/singapore8_540.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/6a9a84c10a9dd4ff3f7b6a0627097282.webp", Fenerbahçe vs Liverpool
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/singapore9_540.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/a3ab01be1959229d99b82d2e3b85ad1f.webp", 2.AEK Athens vs Real Madrid
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/1321224_159-30dab052-207e-4562-a993-205a66191d45.jpg", Slavia Prague vs Arsenal
 https://live05.miekgo.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/6a9a84c10a9dd4ff3f7b6a0627097282.webp", 2.Fenerbahçe vs Liverpool
-https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/b12a2128e913ffff509e5bba1fde39d3.webp", Lens vs Como
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/ProdPK_export_1080.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/01c68c108c174a52b58558904b2e251b.webp", Leipzig vs Man City
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/singapore10_1080.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/maxresdefault.jpg", Porto vs Napoli
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/singapore7_1080.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/7731417b0413ce04e51a1428289a9442.webp", Dortmund vs Real Betis
+https://live05.miekgo.app/live/87547578.m3u8
