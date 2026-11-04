@@ -1,16 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/channels-logo-white-stacked.png_0%2C0%2C1920%2C1080%2B0%2C0%2C1920%2C1080%2B1607%2C885%2C234%2C117_kv6e4ed7a60d36179896a92487d4bec652_.jpeg", Inter Miami vs New England
-https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/a3ab01be1959229d99b82d2e3b85ad1f.webp", AEK Athens vs Real Madrid
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/singapore8_540.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/channels-logo-white-stacked.png_0%2C0%2C1920%2C1080%2B0%2C0%2C1920%2C1080%2B1607%2C885%2C234%2C117_kv6e4ed7a60d36179896a92487d4bec652_.jpeg", 2.Inter Miami vs New England
-https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001793577195-0-0-364319c0fba4c879051c45ff0899d5c0
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/channels-logo-white-stacked.png_0%2C0%2C1920%2C1080%2B0%2C0%2C1920%2C1080%2B1607%2C885%2C234%2C117_kv6e4ed7a60d36179896a92487d4bec652_.jpeg", 3.Inter Miami vs New England
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001793577177-0-0-c633e8c939825e754c8fc68f4ee163e1
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e8ac93a2fbced3a927055d73418e58cb.webp", Barcelona vs Alves
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/ProdPK_export_clone_clone_clone_540.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images.png", xMan City vs Brighton
-https://live05.miekgo.app/live/08552895.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/6a9a84c10a9dd4ff3f7b6a0627097282.webp", Fenerbahçe vs Liverpool
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/singapore9_540.m3u8
