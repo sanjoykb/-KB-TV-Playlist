@@ -1,15 +1,6 @@
 #EXTM3U
 
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", Bangladesh vs Bhutan
-https://live05.miekgo.app/live/33860426.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", 2.Bangladesh vs Bhutan
-https://live2.jorvakstreamcache.com/live/channel7.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", 3.Bangladesh vs Bhutan
-https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001793886284-0-0-280b3b85f556e59186be3c5ae50abd3b
-
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
