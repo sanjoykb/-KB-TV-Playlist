@@ -2,7 +2,7 @@
 
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", Real Madrid vs Valencia
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/ProdPK_export_clone_1080.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", 2.Real Madrid vs Valencia
 https://live05.wecile.app/live/08552895.m3u8
