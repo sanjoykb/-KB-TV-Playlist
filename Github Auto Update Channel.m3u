@@ -1,6 +1,7 @@
 #EXTM3U
 
 # ──────────Live Event──────────
+
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
 
@@ -347,6 +348,8 @@ https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S4/7/E07
 https://media.kbhub.online/OTT%20KB/Anime/Demon%20Slayer%20Season%201-5/S4/8/E08.mkv
 
 # ─────────── OTT───────────
+#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://upload.kbhub.online/files/wide_cinematic_promotional_poster_banner_for_a_mov.png", Ramayana 2026
+https://media.kbhub.online/OTT%20KB/Movies/Dubbed%20Movies/Ramayana%202026/Ramayana.m3u8
 
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Spider Man Brand New Day
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Movies/Dubbed%20Movies/Spider%20Man/Spider.m3u8
@@ -390,17 +393,9 @@ https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Spy%20X%20Fam
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Spy X Family S3E13
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Spy%20X%20Family/13/S03_E13.m3u8
 
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/_2k_i1fRwN.jpg", Demon Slayer Infinity Castle
-https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Anime/Demon%20Slayer%20Infinity%20Castle/DSIC.mkv
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Messi Phonk
-https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/KB%20Project/Messi%20Phonk.m3u8
 
 #EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Maa IntiBangaram [Hindi] 480p
 https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Movies/Maa%20IntiBangaram%20Hindi%20480P.mkv
-
-#EXTINF:-1 group-title="OTT Movies Series" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor Ep 94
-https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/OTT%20KB/Bachelor%20Point/Bachelor%20EP%2094/Bachelor_EP_94.m3u8
 
 # ─────────── Sports───────────
 
