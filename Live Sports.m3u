@@ -1,10 +1,10 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", Barcelona vs Atletico Madrid
-https://live05.wecile.app/live/08552895.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/ProdPK_export_clone_clone_clone_1080.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", 2.Barcelona vs Atletico Madrid
-https://live05.wecile.app/live/78905744.m3u8
+https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", 3.Bangladesh vs Bhutan
 https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001793886284-0-0-280b3b85f556e59186be3c5ae50abd3b
