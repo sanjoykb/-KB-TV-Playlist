@@ -1,7 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", Barcelona vs Atletico Madrid
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/ProdPK_export_clone_clone_clone_1080.m3u8
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", 2.Barcelona vs Atletico Madrid
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
