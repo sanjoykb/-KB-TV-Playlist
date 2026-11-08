@@ -1,9 +1,9 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2ad380f5913ddba8380dfa399037c5fc.webp", Liverpool Match
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", Barcelona vs Atletico Madrid
 https://live05.wecile.app/live/08552895.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e8ef20be639a11cecfa81fb045fe32a7.webp", Chelsea Match
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", 2.Barcelona vs Atletico Madrid
 https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", 3.Bangladesh vs Bhutan
