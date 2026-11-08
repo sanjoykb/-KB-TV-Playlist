@@ -1,10 +1,10 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", Real Madrid vs Valencia
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/ProdPK_export_clone_1080.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", 2.Real Madrid vs Valencia
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2ad380f5913ddba8380dfa399037c5fc.webp", Liverpool Match
 https://live05.wecile.app/live/08552895.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e8ef20be639a11cecfa81fb045fe32a7.webp", Chelsea Match
+https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bhutan-vs-bangladesh-2026-11-05.png", 3.Bangladesh vs Bhutan
 https://live2.domaincdn.cc/livecdn/channel-7.m3u8?auth_key=3000001793886284-0-0-280b3b85f556e59186be3c5ae50abd3b
