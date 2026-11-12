@@ -1,35 +1,6 @@
 #EXTM3U
 
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bangladesh-vs-sri-lanka-2026-11-11.webp", Bangladesh vs Sri Lanka
-https://live05.wecile.app/live/99121525.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/bangladesh-vs-sri-lanka-2026-11-11.webp", 2.Bangladesh vs Sri Lanka
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", Barcelona vs Atletico Madrid
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/ProdPK_export_clone_clone_clone_1080.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/images%20(2).jpeg", 2.Barcelona vs Atletico Madrid
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2ad380f5913ddba8380dfa399037c5fc.webp", Liverpool Match
-https://live05.wecile.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/e8ef20be639a11cecfa81fb045fe32a7.webp", Chelsea Match
-https://live05.wecile.app/live/78905744.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", Real Madrid vs Valencia
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/ProdPK_export_clone_1080.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/c5fa2e3175de077226aa931e03cf100e.webp", 2.Real Madrid vs Valencia
-https://live05.wecile.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/b62ede5c42e9892fe918b1397f34402e.webp", Arsenal vs Hulk
-https://live05.wecile.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/b62ede5c42e9892fe918b1397f34402e.webp", 2.Arsenal vs Hulk
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://pub-af15042317bd401aa6315e0df0b1a277.r2.dev/Sanjoy%20KB/Photo/Generisk_hero_9eb082ef-e320-4111-9628-9037085d201a.jpg", T Sports
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
@@ -112,79 +83,67 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://tvsen7.aynaott.com/disney/tracks-v1a1/mono.ts.m3u8
 # ───────────Bachelor──────────
 
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 105
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 106
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 106
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/106/S05E106.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 107
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 107
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/107/S05E107.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 108
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 108
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/108/S05E108.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 109
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 109
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/109/S05E109.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 110
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 110
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/110/S05E110.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 111
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 111
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/111/S05E111.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 112
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 112
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/112/S05E112.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 113
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 113
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/113/Bachelor.Point.S05E113.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 114
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 114
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/114/Bachelor.Point.S05E114.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 115
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 115
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/115/Bachelor.Point.S05E115.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 116
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 116
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/116/Bachelor.Point.S05E116.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 117
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 117
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/117/Bachelor.Point.S05E117.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 118
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 118
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/118/Bachelor.Point.S05E118.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 119
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 119
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/119/Bachelor.Point.S05E119.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 120
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 120
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/120/Bachelor.Point.S05E120.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 121
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 121
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/121/Episode_121.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 122
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 122
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/122/Episode_122.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 123
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 123
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/123/Episode_123.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 124
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 124
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/124/Episode_124.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 125
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 125
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/125/Episode_125.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 126
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 126
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/126/Episode_126.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 127
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 127
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/127/Episode_127.m3u8
-
-#EXTINF:-1 group-title="Bachelor Point" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Bachelor EP 128
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 128
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/128/Episode_128.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 129
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/129/E129.m3u8
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 130
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/130/E130.m3u8
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 131
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/131/E131.m3u8
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 132
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/132/E132.m3u8
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 133
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/133/E133.m3u8
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 134
+https://media.kbhub.online/OTT%20KB/Bachelor%20Point/134/E134.m3u8
 # ───────────Anime──────────
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://imglink.cc/cdn/-n_ZO1Y3ib.jpg", Demon Slayer S1E1
