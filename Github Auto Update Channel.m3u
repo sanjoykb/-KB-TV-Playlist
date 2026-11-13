@@ -2,6 +2,9 @@
 
 # ──────────Live Event──────────
 
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/68027b8e39125765b56c544d956bf5e2.webp", TS ATN
+http://qavxero.xyz:80/live/MAGCXS3FQH/TcuoVNciP2/72262.ts
+
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/68027b8e39125765b56c544d956bf5e2.webp", France vs Itali
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/singapore10_1080.m3u8
 
