@@ -1,10 +1,10 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/Today%20ARG%20Match.jpeg", Argentina vs Uruguay
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/singapore10_1080.m3u8
+https://live05.wecile.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/Today%20ARG%20Match.jpeg", 2.Argentina vs Uruguay
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/singapore8_1080.m3u8
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/Today%20ARG%20Match.jpeg", 3.Argentina vs Uruguay
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/singapore9_1080.m3u8
+https://live2.domaincdn.cc/livecdn/channel-21.m3u8?auth_key=3000001794592420-0-0-3afcddf3e7a02833d5a6cd4e32817eb8
