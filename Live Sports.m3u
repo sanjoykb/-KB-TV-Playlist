@@ -1,10 +1,10 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/BRA-VS-JAP.jpeg", Brazil vs Japan
-https://live2.jorvakstreamcache.com/live/channel4.m3u8
+https://live05.wecile.app/live/78905744.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/BRA-VS-JAP.jpeg", 2.Brazil vs Japan
-https://live05.wecile.app/live/08552895.m3u8
+https://live05.wecile.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/BRA-VS-JAP.jpeg", 3.Brazil vs Japan
 https://live2.domaincdn.cc/livecdn/channel-4.m3u8?auth_key=3000001794609750-0-0-243947615049fb65c1e4bc8b58e676ce
