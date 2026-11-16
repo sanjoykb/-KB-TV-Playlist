@@ -1,6 +1,15 @@
 #EXTM3U
 
 # ──────────Live Event──────────
+#EXTINF:-1 group-title="Live vent  Sports" tvg-logo="https://upload.kbhub.online/files/8a63bee2f34e093bb590b07d384da85c.webp", xGermany vs Netherland
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/179096360.webp", Switzerland vs Scotland
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/1764833054.png", Greece vs Serbia
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://i.postimg.cc/nzRZnjhH/bdvspk.jpg", Bangladesh vs Pakistan
 https://live2.jorvakstreamcache.com/live/channel19.m3u8
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://i.postimg.cc/nzRZnjhH/bdvspk.jpg", Bangladesh vs Pakistan
