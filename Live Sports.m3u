@@ -8,4 +8,7 @@ https://live2.jorvakstreamcache.com/live/channel11.m3u8
 https://live05.wecile.app/live/08552895.m3u8
 
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://i.postimg.cc/dQZc6tRS/Gemini-Generated-Image-doyxbgdoyxbgdoyx.jpg", Argentina vs Costa Rica 3
-https://live2.domaincdn.cc/livecdn/channel-11.m3u8?auth_key=3000001794955241-0-0-ebe8592dba83a427d59a07f4a72cae3c
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794959558-0-0-acf8b640b2bf69a1dd52cda60ae806e0
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://i.postimg.cc/dQZc6tRS/Gemini-Generated-Image-doyxbgdoyxbgdoyx.jpg", Argentina vs Costa Rica
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key=1794959610-0-0-fd2e4fd9b5632bc34ead161d4e5926ce
