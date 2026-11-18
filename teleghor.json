@@ -4,14 +4,14 @@
     "latestVersion": "2.1.0",
     "latestVersionCode": 21,
     "minVersionCode": 21,
-    "updateUrl": "PHONE_APK_DOWNLOAD_URL",
+    "updateUrl": "https://upload.kbhub.online",
     "releaseNotes": "Teleghor IPTV Phone v2.1.0"
   },
   "tv": {
     "latestVersion": "2.1.0",
     "latestVersionCode": 21,
     "minVersionCode": 21,
-    "updateUrl": "TV_APK_DOWNLOAD_URL",
+    "updateUrl": "https://upload.kbhub.online",
     "releaseNotes": "Teleghor IPTV TV v2.1.0"
   }
 }
