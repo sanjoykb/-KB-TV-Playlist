@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.1.0",
-  "latestVersionCode": 2,
-  "minVersionCode": 2,
-  "updateUrl": "https://YOUR_DIRECT_PUBLIC_HOST/Teleghor_IPTV_v1.1.0.apk",
-  "releaseNotes": "Teleghor IPTV v1.1.0: Force Auto Update System"
+  "latestVersion": "1.2.0",
+  "latestVersionCode": 3,
+  "minVersionCode": 3,
+  "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_Update_v1.2.0.apk",
+  "releaseNotes": "Update Teleghor IPTV v1.2.0, সমস্যা হলে  Website থেকে  Update করে নিবেন"
 }
