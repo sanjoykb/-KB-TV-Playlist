@@ -1,17 +1,16 @@
-
 {
   "phone": {
-    "latestVersion": "2.2.0",
-    "latestVersionCode": 22,
-    "minVersionCode": 22,
-    "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_Phone_v2.2.0.apk",
-    "releaseNotes": "Teleghor IPTV Phone v2.2.0"
+    "latestVersion": "2.3.0",
+    "latestVersionCode": 23,
+    "minVersionCode": 23,
+    "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_Phone_v2.3.0.apk",
+    "releaseNotes": "Teleghor IPTV Phone v2.3.0: Seamless in-app upgrade & full playlist sync."
   },
   "tv": {
-    "latestVersion": "2.2.0",
-    "latestVersionCode": 22,
-    "minVersionCode": 22,
-    "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_TV_v2.2.0.apk",
-    "releaseNotes": "Teleghor IPTV TV v2.2.0"
+    "latestVersion": "2.3.0",
+    "latestVersionCode": 23,
+    "minVersionCode": 23,
+    "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_TV_v2.3.0.apk",
+    "releaseNotes": "Teleghor IPTV TV v2.3.0: Seamless in-app upgrade & TV Auto Update all playlists."
   }
 }
