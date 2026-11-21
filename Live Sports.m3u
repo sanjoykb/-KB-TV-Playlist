@@ -1,7 +1,4 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2cda707e4c1f1976aadd82d42bf08649.webp", Arsenal vs New Castle 11:30 PM
-https://live05.wecile.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2cda707e4c1f1976aadd82d42bf08649.webp", 2.Arsenal vs New Castle 11:30 PM
-https://live2.jorvakstreamcache.com/live/channel1.m3u8
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/4345e6fe334d13d1b8ce0d79c334df5a.jpg_up.webp", Real Madrid vs Celta 2:00 AM
+https://vodintlv2.in-maa-1.linodeobjects.com/LALIGA2026/LaligaPromo/master.m3u8
