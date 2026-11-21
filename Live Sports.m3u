@@ -1,8 +1,8 @@
 #EXTM3U
 # ──────────Live Event──────────
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/70aaa646b23c19740bdb792b74bcce3e.webp", Chelsea vs Leeds
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/70aaa646b23c19740bdb792b74bcce3e.webp", Chelsea vs Leeds 9:00PM
 https://live2.jorvakstreamcache.com/live/channel11.m3u8
 
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2cda707e4c1f1976aadd82d42bf08649.webp", Arsenal vs New Castle
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/2cda707e4c1f1976aadd82d42bf08649.webp", Arsenal vs New Castle 11:30 PM
 https://live05.wecile.app/live/08552895.m3u8
