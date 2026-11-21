@@ -1,4 +1,10 @@
 #EXTM3U
 # ──────────Live Event──────────
 #EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", Inter Miami vs Columbus
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+https://live05.wecile.app/live/02456966.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", 2.Inter Miami vs Columbus
+https://live2.jorvakstreamcache.com/live/channel12.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", 3.Inter Miami vs Columbus
+https://live2.domaincdn.cc/livecdn/channel-12.m3u8?auth_key=3000001795300635-0-0-e8c93e63a610253b89c9388d90d31c69
