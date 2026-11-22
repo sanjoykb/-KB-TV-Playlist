@@ -1,10 +1,4 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", Inter Miami vs Columbus
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/70859fc219362ea2ae41f1c6d1e20318.jpg_up.webp", Barcelona vs Villareal
 https://live05.wecile.app/live/02456966.m3u8
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", 2.Inter Miami vs Columbus
-https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1795305245-0-0-52a61ede0e1b1ed69f5f408b8d4ede1e
-
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/en-US._UR1920%2C1080_.jpeg", 3.Inter Miami vs Columbus
-https://live2.jorvakstreamcache.com/live/channel12.m3u8
