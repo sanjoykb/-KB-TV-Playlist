@@ -1,5 +1,7 @@
 #EXTM3U
 # ──────────Live Event──────────
-#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/14fc87635faec05e9d234e8fbb2ef4da.jpg_up.webp",
-Atletico Madrid vs Getafe
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/14fc87635faec05e9d234e8fbb2ef4da.jpg_up.webp", Atletico Madrid vs Getafe
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
+#EXTINF:-1 group-title="Live Event Sports" tvg-logo="https://upload.kbhub.online/files/14fc87635faec05e9d234e8fbb2ef4da.jpg_up.webp", 2.Atletico Madrid vs Getafe
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/ProdPK_export_clone_clone_1080.m3u8
