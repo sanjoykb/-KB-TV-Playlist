@@ -1,16 +1,16 @@
 {
   "phone": {
-    "latestVersion": "2.5.0",
-    "latestVersionCode": 25,
-    "minVersionCode": 25,
+    "latestVersion": "2.6.1",
+    "latestVersionCode": 27,
+    "minVersionCode": 27,
     "updateUrl": "https://upload.kbhub.online/files/Teleghor_IPTV_Phone_v2.5.0%20(1).apk",
-    "releaseNotes": "Teleghor IPTV Phone v2.5.0 App Update কোন সমস্যা হলে website থেকে ডাউনলোড করবেন"
+    "releaseNotes": "Teleghor IPTV Phone v2.6.1 App Update কোন সমস্যা হলে website থেকে ডাউনলোড করবেন"
   },
   "tv": {
-    "latestVersion": "2.5.0",
-    "latestVersionCode": 25,
+    "latestVersion": "2.6.1",
+    "latestVersionCode": 27,
     "minVersionCode": 25,
-    "updateUrl": "https://media.teleghor.online/OTT%20KB/App/Teleghor_IPTV_TV_v2.5.0%20sp.apk",
-    "releaseNotes": "Teleghor IPTV Phone v2.5.0 App Update কোন সমস্যা হলে website থেকে ডাউনলোড করবেন"
+    "updateUrl": "https://media.teleghor.online/OTT%20KB/App/Teleghor_IPTV_TV_v2.6.1.apk",
+    "releaseNotes": "Teleghor IPTV v2.6.1 In App Update কোন সমস্যা হলে website থেকে ডাউনলোড করে Update করে নিবেন"
   }
 }
