@@ -1,30 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E01
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E01-1080p-Hindi-WEBDL.mkv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E02
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E02-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E03
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E03-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E04
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E04-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E05
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E05-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E06
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E06-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E07
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E07-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E08
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E08-1080p-Hindi-WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQH6ZB5z/Gemini-Generated-Image-7s1l087s1l087s1l.jpg" group-title="Netflix Series",The Great Indian Kapil Show S05E09
-https://kbtv.online/Netflix%20Series/S5/The-Great-Indian-Kapil-Show-S05E09-1080p-Hindi-WEBDL.mkv
 #EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 105
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/105/S05E105.m3u8
 #EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bechlor%20Point%20Rooftop%20Crew.png" group-title="Bachelor Point",Bachelor EP 106
@@ -86,3 +61,21 @@ https://media.kbhub.online/OTT%20KB/Bachelor%20Point/132/E132.m3u8
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/133/E133.m3u8
 #EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/Bachelor%20Point%20Season%205%20Promotional%20Banner.png" group-title="Bachelor Point",Bachelor EP 134
 https://media.kbhub.online/OTT%20KB/Bachelor%20Point/134/E134.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 135
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E135.720p.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 136
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E136.720p.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 137
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E137.720p.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 138
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E138.720p.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 139
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E139.720p.AAC.WEB-DL.h264.mkv
+
+#EXTINF:-1 tvg-logo="https://upload.kbhub.online/files/TeleGhor%20bechlor%20point.jpeg" group-title="Bachelor Point",Bachelor EP 140
+https://media.teleghor.online/OTT%20KB/Bachelor%20Point/135-140/Bachelor.Point.S05E140.720p.AAC.WEB-DL.h264.mkv
